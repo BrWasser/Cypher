@@ -1,0 +1,1054 @@
+﻿[
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S1",
+        "local": "QI1"
+      },
+      "elementId": "8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S2",
+        "local": "QI1"
+      },
+      "elementId": "9"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S3",
+        "local": "QI1"
+      },
+      "elementId": "10"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S4",
+        "local": "QI1"
+      },
+      "elementId": "11"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S5",
+        "local": "QI1"
+      },
+      "elementId": "12"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S6",
+        "local": "QI1"
+      },
+      "elementId": "13"
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S7",
+        "local": "QI1"
+      },
+      "elementId": "14"
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S8",
+        "local": "QI1"
+      },
+      "elementId": "15"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S9",
+        "local": "QI1"
+      },
+      "elementId": "16"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S10",
+        "local": "QI1"
+      },
+      "elementId": "17"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S11",
+        "local": "QI1"
+      },
+      "elementId": "18"
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S12",
+        "local": "QI1"
+      },
+      "elementId": "19"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S13",
+        "local": "QI1"
+      },
+      "elementId": "20"
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S14",
+        "local": "QI1"
+      },
+      "elementId": "21"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S15",
+        "local": "QI1"
+      },
+      "elementId": "22"
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S16",
+        "local": "QI1"
+      },
+      "elementId": "23"
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S17",
+        "local": "QI1"
+      },
+      "elementId": "24"
+    }
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S18",
+        "local": "QI1"
+      },
+      "elementId": "25"
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S19",
+        "local": "QI1"
+      },
+      "elementId": "26"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-S20",
+        "local": "QI1"
+      },
+      "elementId": "27"
+    }
+  },
+  {
+    "n": {
+      "identity": 28,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-TS1",
+        "local": "QI1"
+      },
+      "elementId": "28"
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Solenoide"
+      ],
+      "properties": {
+        "estado": "aberto",
+        "name": "QI1-TS2",
+        "local": "QI1"
+      },
+      "elementId": "29"
+    }
+  },
+  {
+    "n": {
+      "identity": 104,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP1",
+        "local": "QI1"
+      },
+      "elementId": "104"
+    }
+  },
+  {
+    "n": {
+      "identity": 105,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP2",
+        "local": "QI1"
+      },
+      "elementId": "105"
+    }
+  },
+  {
+    "n": {
+      "identity": 106,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP3",
+        "local": "QI1"
+      },
+      "elementId": "106"
+    }
+  },
+  {
+    "n": {
+      "identity": 107,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP4",
+        "local": "QI1"
+      },
+      "elementId": "107"
+    }
+  },
+  {
+    "n": {
+      "identity": 108,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP5",
+        "local": "QI1"
+      },
+      "elementId": "108"
+    }
+  },
+  {
+    "n": {
+      "identity": 109,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP6",
+        "local": "QI1"
+      },
+      "elementId": "109"
+    }
+  },
+  {
+    "n": {
+      "identity": 110,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP7",
+        "local": "QI1"
+      },
+      "elementId": "110"
+    }
+  },
+  {
+    "n": {
+      "identity": 111,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP8",
+        "local": "QI1"
+      },
+      "elementId": "111"
+    }
+  },
+  {
+    "n": {
+      "identity": 112,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP9",
+        "local": "QI1"
+      },
+      "elementId": "112"
+    }
+  },
+  {
+    "n": {
+      "identity": 113,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP10",
+        "local": "QI1"
+      },
+      "elementId": "113"
+    }
+  },
+  {
+    "n": {
+      "identity": 114,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP11",
+        "local": "QI1"
+      },
+      "elementId": "114"
+    }
+  },
+  {
+    "n": {
+      "identity": 115,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP12",
+        "local": "QI1"
+      },
+      "elementId": "115"
+    }
+  },
+  {
+    "n": {
+      "identity": 116,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP13",
+        "local": "QI1"
+      },
+      "elementId": "116"
+    }
+  },
+  {
+    "n": {
+      "identity": 117,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP14",
+        "local": "QI1"
+      },
+      "elementId": "117"
+    }
+  },
+  {
+    "n": {
+      "identity": 118,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP15",
+        "local": "QI1"
+      },
+      "elementId": "118"
+    }
+  },
+  {
+    "n": {
+      "identity": 119,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP16",
+        "local": "QI1"
+      },
+      "elementId": "119"
+    }
+  },
+  {
+    "n": {
+      "identity": 120,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP17",
+        "local": "QI1"
+      },
+      "elementId": "120"
+    }
+  },
+  {
+    "n": {
+      "identity": 121,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP18",
+        "local": "QI1"
+      },
+      "elementId": "121"
+    }
+  },
+  {
+    "n": {
+      "identity": 122,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP19",
+        "local": "QI1"
+      },
+      "elementId": "122"
+    }
+  },
+  {
+    "n": {
+      "identity": 123,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP20",
+        "local": "QI1"
+      },
+      "elementId": "123"
+    }
+  },
+  {
+    "n": {
+      "identity": 124,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP21",
+        "local": "QI1"
+      },
+      "elementId": "124"
+    }
+  },
+  {
+    "n": {
+      "identity": 125,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP22",
+        "local": "QI1"
+      },
+      "elementId": "125"
+    }
+  },
+  {
+    "n": {
+      "identity": 126,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP23",
+        "local": "QI1"
+      },
+      "elementId": "126"
+    }
+  },
+  {
+    "n": {
+      "identity": 127,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP24",
+        "local": "QI1"
+      },
+      "elementId": "127"
+    }
+  },
+  {
+    "n": {
+      "identity": 128,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP25",
+        "local": "QI1"
+      },
+      "elementId": "128"
+    }
+  },
+  {
+    "n": {
+      "identity": 129,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP26",
+        "local": "QI1"
+      },
+      "elementId": "129"
+    }
+  },
+  {
+    "n": {
+      "identity": 130,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP27",
+        "local": "QI1"
+      },
+      "elementId": "130"
+    }
+  },
+  {
+    "n": {
+      "identity": 131,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP28",
+        "local": "QI1"
+      },
+      "elementId": "131"
+    }
+  },
+  {
+    "n": {
+      "identity": 132,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP29",
+        "local": "QI1"
+      },
+      "elementId": "132"
+    }
+  },
+  {
+    "n": {
+      "identity": 133,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP30",
+        "local": "QI1"
+      },
+      "elementId": "133"
+    }
+  },
+  {
+    "n": {
+      "identity": 134,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP31",
+        "local": "QI1"
+      },
+      "elementId": "134"
+    }
+  },
+  {
+    "n": {
+      "identity": 135,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP32",
+        "local": "QI1"
+      },
+      "elementId": "135"
+    }
+  },
+  {
+    "n": {
+      "identity": 136,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP33",
+        "local": "QI1"
+      },
+      "elementId": "136"
+    }
+  },
+  {
+    "n": {
+      "identity": 137,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP34",
+        "local": "QI1"
+      },
+      "elementId": "137"
+    }
+  },
+  {
+    "n": {
+      "identity": 138,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP35",
+        "local": "QI1"
+      },
+      "elementId": "138"
+    }
+  },
+  {
+    "n": {
+      "identity": 139,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-MP36",
+        "local": "QI1"
+      },
+      "elementId": "139"
+    }
+  },
+  {
+    "n": {
+      "identity": 140,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-TMP1",
+        "local": "QI1"
+      },
+      "elementId": "140"
+    }
+  },
+  {
+    "n": {
+      "identity": 141,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-TMP2",
+        "local": "QI1"
+      },
+      "elementId": "141"
+    }
+  },
+  {
+    "n": {
+      "identity": 142,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-TMP3",
+        "local": "QI1"
+      },
+      "elementId": "142"
+    }
+  },
+  {
+    "n": {
+      "identity": 143,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-TMP4",
+        "local": "QI1"
+      },
+      "elementId": "143"
+    }
+  },
+  {
+    "n": {
+      "identity": 144,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-TMP5",
+        "local": "QI1"
+      },
+      "elementId": "144"
+    }
+  },
+  {
+    "n": {
+      "identity": 145,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-TMP6",
+        "local": "QI1"
+      },
+      "elementId": "145"
+    }
+  },
+  {
+    "n": {
+      "identity": 146,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-TMP7",
+        "local": "QI1"
+      },
+      "elementId": "146"
+    }
+  },
+  {
+    "n": {
+      "identity": 147,
+      "labels": [
+        "MixProof"
+      ],
+      "properties": {
+        "sentido": "x",
+        "name": "QI1-TMP8",
+        "local": "QI1"
+      },
+      "elementId": "147"
+    }
+  },
+  {
+    "n": {
+      "identity": 256,
+      "labels": [
+        "Tanque"
+      ],
+      "properties": {
+        "estado": "vazio",
+        "condicao": "limpo",
+        "sentido": "x",
+        "name": "QI1-T1",
+        "local": "QI1"
+      },
+      "elementId": "256"
+    }
+  },
+  {
+    "n": {
+      "identity": 257,
+      "labels": [
+        "Tanque"
+      ],
+      "properties": {
+        "estado": "vazio",
+        "condicao": "limpo",
+        "sentido": "x",
+        "name": "QI1-T2",
+        "local": "QI1"
+      },
+      "elementId": "257"
+    }
+  },
+  {
+    "n": {
+      "identity": 258,
+      "labels": [
+        "Tanque"
+      ],
+      "properties": {
+        "estado": "vazio",
+        "condicao": "limpo",
+        "sentido": "x",
+        "name": "QI1-T3",
+        "local": "QI1"
+      },
+      "elementId": "258"
+    }
+  },
+  {
+    "n": {
+      "identity": 259,
+      "labels": [
+        "Tanque"
+      ],
+      "properties": {
+        "estado": "vazio",
+        "condicao": "limpo",
+        "sentido": "x",
+        "name": "QI1-T4",
+        "local": "QI1"
+      },
+      "elementId": "259"
+    }
+  },
+  {
+    "n": {
+      "identity": 260,
+      "labels": [
+        "Tanque"
+      ],
+      "properties": {
+        "estado": "vazio",
+        "condicao": "limpo",
+        "sentido": "x",
+        "name": "QI1-T5",
+        "local": "QI1"
+      },
+      "elementId": "260"
+    }
+  },
+  {
+    "n": {
+      "identity": 261,
+      "labels": [
+        "Tanque"
+      ],
+      "properties": {
+        "estado": "vazio",
+        "condicao": "limpo",
+        "sentido": "x",
+        "name": "QI1-T6",
+        "local": "QI1"
+      },
+      "elementId": "261"
+    }
+  },
+  {
+    "n": {
+      "identity": 262,
+      "labels": [
+        "Tanque"
+      ],
+      "properties": {
+        "estado": "vazio",
+        "condicao": "limpo",
+        "sentido": "x",
+        "name": "QI1-T7",
+        "local": "QI1"
+      },
+      "elementId": "262"
+    }
+  },
+  {
+    "n": {
+      "identity": 263,
+      "labels": [
+        "Tanque"
+      ],
+      "properties": {
+        "estado": "vazio",
+        "condicao": "limpo",
+        "sentido": "x",
+        "name": "QI1-T8",
+        "local": "QI1"
+      },
+      "elementId": "263"
+    }
+  }
+]
